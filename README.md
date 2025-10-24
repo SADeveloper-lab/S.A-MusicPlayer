@@ -3,9 +3,11 @@
 @All right reserved. Sadeghi-Alavi.
 
 This app features vibrancy and over four different themes, allowing you to experience unique visuals for the most unique music player ever made.
+
 ![Image 1](screenshot3.JPG)
 
 Real-time scanning and monitoring of music directories for MP3 files. 
+
 ![Image 2](screenshot2.JPG)
 
 This application also ensures high performance and responsiveness to user actions.
