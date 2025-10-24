@@ -8,5 +8,5 @@ A music player with real-time scanning and monitoring of music directories for M
 It features vibrancy and over four different themes, allowing you to experience unique visuals for the most unique music player ever made.
 ![Image 2](screenshot2.JPG)
 
-The application ensures high performance and responsiveness to user actions.
+This application ensures high performance and responsiveness to user actions.
 I hope you enjoy it!
