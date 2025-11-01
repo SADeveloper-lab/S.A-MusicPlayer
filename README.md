@@ -11,4 +11,7 @@ Real-time scanning and monitoring of music directories for MP3 files.
 ![Image 2](screenshot2.JPG)
 
 This application also ensures high performance and responsiveness to user actions.
+
+Attention: Minimum system requirements are Windows 10 2019+ and .net 8 runtime installed.
+
 I hope you enjoy it!
